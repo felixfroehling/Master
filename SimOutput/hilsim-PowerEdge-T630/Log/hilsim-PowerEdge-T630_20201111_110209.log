@@ -1,0 +1,43 @@
+APPLICATION	Car_Generic <insert.your.version.no> #37 (linux64-9.0)
+COMPILED	felix@hilsim-poweredge-t630 2020-10-29 10:18:36
+ 
+FIRST_INIT	(internal default used)	2020-11-11 11:02:10
+TIME	0.000
+SIM_END			0s	0m
+IDLE	11:02:10
+SIM_START	Dataset_left_lane1	2020-11-11 11:02:13
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	2.309
+SIM_END		Dataset_left_lane1	2.306s	81.934m
+TIME	8.709
+SIM_START	Dataset_left_lane1	2020-11-11 11:03:21
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+SIM_END		Dataset_left_lane1	1.377s	52.0687m
+TIME	2.798
+SIM_START	Dataset_left_lane1	2020-11-11 11:03:39
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	4.813
+SIM_END		Dataset_left_lane1	4.808s	154.675m
+SIM_START	Dataset_left_lane1	2020-11-11 11:03:59
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+SIM_END		Dataset_left_lane1	1.919s	69.8212m
+TIME	3.410
+SIM_START	Dataset_left_lane1	2020-11-11 11:04:17
+TIME	0.064
+ERROR		Calculating vehicle equilibrium state (nIter=776, refal=3, SCState=4)
+ERROR		Camera Sensor: OSMesa making context current failed!
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates
+		Connection to GUI lost, initiate shutdown
+SHUTDOWN	Automatic CarMaker shutdown initiated
+
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates

@@ -1,0 +1,13 @@
+APPLICATION	Car_Generic <insert.your.version.no> #27 (linux64-9.0)
+COMPILED	felix@hil-003 2020-10-07 10:16:53
+ 
+FIRST_INIT	(internal default used)	2020-10-07 10:17:14
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:17:14
+SIM_START	Cruising_3lanes	2020-10-07 10:17:16
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	19.969
+SIM_END		Cruising_3lanes	19.966s	495.762m

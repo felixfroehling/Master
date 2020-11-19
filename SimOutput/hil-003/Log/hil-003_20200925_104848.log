@@ -1,0 +1,16 @@
+APPLICATION	Car_Generic <insert.your.version.no> #3 (linux64-9.0)
+COMPILED	felix@hil-003 2020-09-25 10:04:58
+ 
+FIRST_INIT	(internal default used)	2020-09-25 10:48:49
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:48:50
+SIM_START	Cruising_3lanes	2020-09-25 10:48:53
+TIME	0.009
+ERROR		No route at vehicle start position 1000m (max. 375.41m)
+SIM_ABORT	Cruising_3lanes	0s	0m
+TIME	3.729
+SIM_START	Cruising_3lanes	2020-09-25 10:49:30
+TIME	0.010
+ERROR		Traffic object 0: Start road position is outside of route/path length
+ERROR		Can't get parameters of traffic object 0 (2)

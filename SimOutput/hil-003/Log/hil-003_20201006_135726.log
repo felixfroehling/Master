@@ -1,0 +1,13 @@
+APPLICATION	Car_Generic <insert.your.version.no> #23 (linux64-9.0)
+COMPILED	felix@hil-003 2020-10-06 13:56:43
+ 
+FIRST_INIT	(internal default used)	2020-10-06 13:57:26
+TIME	0.000
+SIM_END			0s	0m
+IDLE	13:57:27
+SIM_START	BackAndForth	2020-10-06 13:57:28
+TIME	0.000
+SIMULATE	BackAndForth
+
+TIME	5.870
+SIM_END		BackAndForth	5.867s	226.268m

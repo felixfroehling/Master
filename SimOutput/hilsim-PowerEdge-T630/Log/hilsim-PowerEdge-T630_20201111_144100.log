@@ -1,0 +1,45 @@
+APPLICATION	Car_Generic <insert.your.version.no> #39 (linux64-9.0)
+COMPILED	felix@hilsim-poweredge-t630 2020-11-11 14:23:06
+ 
+FIRST_INIT	(internal default used)	2020-11-11 14:41:01
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:41:01
+SIM_START	Dataset_left_lane1	2020-11-11 14:41:04
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+SIM_END		Dataset_left_lane1	1.079s	41.8166m
+TIME	2.186
+SIM_START	Dataset_left_lane1	2020-11-11 14:41:17
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	18.174
+SIM_END		Dataset_left_lane1	18.171s	495.782m
+TIME	25.954
+SIM_START	Dataset_left_lane1	2020-11-11 14:42:56
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	4.300
+SIM_END		Dataset_left_lane1	4.295s	140.298m
+TIME	6.592
+SIM_START	Dataset_left_lane1	2020-11-11 14:43:25
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+SIM_END		Dataset_left_lane1	1.379s	52.1793m
+TIME	3.678
+SIM_START	Dataset_left_lane1	2020-11-11 14:43:52
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	17.100
+SIM_END		Dataset_left_lane1	17.097s	495.784m
+SIM_START	Dataset_left_lane1	2020-11-11 14:44:13
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	4.334
+SIM_END		Dataset_left_lane1	4.331s	141.316m

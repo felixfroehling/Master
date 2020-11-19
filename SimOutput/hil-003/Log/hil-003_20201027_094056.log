@@ -1,0 +1,53 @@
+APPLICATION	Car_Generic <insert.your.version.no> #29 (linux64-9.0)
+COMPILED	felix@hil-003 2020-10-07 10:32:52
+ 
+FIRST_INIT	(internal default used)	2020-10-27 09:40:56
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:40:57
+SIM_START	Dataset_left_lane1	2020-10-27 09:40:59
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	18.200
+SIM_END		Dataset_left_lane1	18.197s	495.757m
+TIME	20.638
+SIM_START	Dataset_left_lane1	2020-10-27 09:41:35
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	18.200
+SIM_END		Dataset_left_lane1	18.197s	495.757m
+SIM_START	Dataset_left_lane1	2020-10-27 09:41:57
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	3.263
+SIM_END		Dataset_left_lane1	3.26s	98.6116m
+TIME	7.893
+SIM_START	Dataset_left_lane1	2020-10-27 09:42:48
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	11.986
+SIM_END		Dataset_left_lane1	11.983s	336.305m
+SIM_START	Dataset_left_lane1	2020-10-27 09:43:13
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	4.652
+SIM_END		Dataset_left_lane1	4.649s	137.635m
+TIME	9.718
+SIM_START	Dataset_left_lane1	2020-10-27 09:44:10
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	18.200
+SIM_END		Dataset_left_lane1	18.197s	495.757m
+TIME	35.334
+SIM_START	Dataset_left_lane1	2020-10-27 09:47:23
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	10.652
+SIM_END		Dataset_left_lane1	10.649s	301.031m

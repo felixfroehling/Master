@@ -1,0 +1,187 @@
+APPLICATION	Car_Generic <insert.your.version.no> #39 (linux64-9.0)
+COMPILED	felix@hilsim-poweredge-t630 2020-11-11 14:23:06
+ 
+FIRST_INIT	(internal default used)	2020-11-12 12:15:29
+TIME	0.000
+SIM_END			0s	0m
+IDLE	12:15:30
+SIM_START	Dataset_left_lane4	2020-11-12 12:15:32
+TIME	0.000
+SIMULATE	Dataset_left_lane4
+
+TIME	11.927
+SIM_END		Dataset_left_lane4	11.924s	495.782m
+TIME	30.133
+SIM_START	Dataset_left_lane4	2020-11-12 12:18:48
+TIME	0.000
+SIMULATE	Dataset_left_lane4
+
+TIME	11.927
+SIM_END		Dataset_left_lane4	11.924s	495.782m
+TIME	28.567
+SIM_START	Dataset_left_lane4	2020-11-12 12:21:48
+TIME	0.000
+SIMULATE	Dataset_left_lane4
+
+TIME	11.235
+SIM_END		Dataset_left_lane4	11.232s	466.994m
+TIME	82.483
+SIM_START	Dataset_left_lane4	2020-11-12 12:34:05
+TIME	0.000
+SIMULATE	Dataset_left_lane4
+
+TIME	7.575
+SIM_END		Dataset_left_lane4	7.571s	314.409m
+TIME	21.847
+SIM_START	Dataset_left_lane4	2020-11-12 12:36:45
+TIME	0.000
+SIMULATE	Dataset_left_lane4
+
+TIME	4.254
+SIM_END		Dataset_left_lane4	4.251s	180.728m
+TIME	8.910
+SIM_START	Dataset_left_lane4	2020-11-12 12:37:43
+TIME	0.000
+SIMULATE	Dataset_left_lane4
+
+TIME	11.184
+SIM_END		Dataset_left_lane4	11.181s	495.798m
+TIME	22.252
+SIM_START	Dataset_middle_lane1	2020-11-12 12:39:58
+TIME	0.000
+SIMULATE	Dataset_middle_lane1
+
+TIME	10.607
+SIM_END		Dataset_middle_lane1	10.602s	470.11m
+TIME	136.465
+SIM_START	Dataset_middle_lane1	2020-11-12 13:01:19
+TIME	0.000
+SIMULATE	Dataset_middle_lane1
+
+TIME	8.220
+SIM_END		Dataset_middle_lane1	8.217s	364.039m
+TIME	12.886
+SIM_START	Dataset_middle_lane1	2020-11-12 13:02:27
+TIME	0.000
+SIMULATE	Dataset_middle_lane1
+
+TIME	9.405
+SIM_END		Dataset_middle_lane1	9.402s	416.773m
+TIME	15.049
+SIM_START	Dataset_middle_lane2	2020-11-12 13:03:46
+TIME	0.000
+SIMULATE	Dataset_middle_lane2
+
+TIME	9.787
+SIM_END		Dataset_middle_lane2	9.782s	433.665m
+TIME	39.591
+SIM_START	Dataset_middle_lane2	2020-11-12 13:09:05
+TIME	0.000
+SIMULATE	Dataset_middle_lane2
+
+TIME	9.105
+SIM_END		Dataset_middle_lane2	9.102s	377.044m
+SIM_START	Dataset_middle_lane3	2020-11-12 13:09:43
+TIME	0.000
+SIMULATE	Dataset_middle_lane3
+
+TIME	10.761
+SIM_END		Dataset_middle_lane3	10.758s	434.575m
+TIME	42.869
+SIM_START	Dataset_middle_lane3	2020-11-12 13:15:25
+TIME	0.000
+SIMULATE	Dataset_middle_lane3
+
+TIME	5.267
+SIM_END		Dataset_middle_lane3	5.264s	232.687m
+SIM_START	Dataset_middle_lane4	2020-11-12 13:15:55
+TIME	0.000
+SIMULATE	Dataset_middle_lane4
+
+TIME	9.755
+SIM_END		Dataset_middle_lane4	9.752s	432.331m
+TIME	98.799
+SIM_START	Dataset_middle_lane4	2020-11-12 13:31:06
+TIME	0.000
+SIMULATE	Dataset_middle_lane4
+
+TIME	5.252
+SIM_END		Dataset_middle_lane4	5.249s	193.637m
+SIM_START	Dataset_middle_lane4	2020-11-12 13:31:25
+TIME	0.000
+SIMULATE	Dataset_middle_lane4
+
+TIME	11.592
+SIM_END		Dataset_middle_lane4	11.589s	372.474m
+TIME	224.868
+SIM_START	Dataset_middle_lane5_verification	2020-11-12 14:07:21
+TIME	0.000
+SIMULATE	Dataset_middle_lane5_verification
+
+TIME	5.626
+SIM_END		Dataset_middle_lane5_verification	5.621s	243.091m
+TIME	12.210
+SIM_START	Dataset_right_lane1	2020-11-12 14:08:43
+TIME	0.000
+SIMULATE	Dataset_right_lane1
+
+TIME	11.157
+SIM_END		Dataset_right_lane1	11.154s	442.169m
+TIME	60.806
+SIM_START	Dataset_right_lane1	2020-11-12 14:17:25
+TIME	0.000
+SIMULATE	Dataset_right_lane1
+
+TIME	10.395
+SIM_END		Dataset_right_lane1	10.392s	301.5m
+SIM_START	Dataset_right_lane1	2020-11-12 14:18:01
+TIME	0.000
+SIMULATE	Dataset_right_lane1
+
+TIME	12.760
+SIM_END		Dataset_right_lane1	12.757s	350.43m
+TIME	83.474
+SIM_START	Dataset_right_lane2	2020-11-12 14:30:14
+TIME	0.000
+SIMULATE	Dataset_right_lane2
+
+TIME	8.531
+SIM_END		Dataset_right_lane2	8.528s	377.87m
+TIME	12.257
+SIM_START	Dataset_right_lane3	2020-11-12 14:31:11
+TIME	0.000
+SIMULATE	Dataset_right_lane3
+
+TIME	9.580
+SIM_END		Dataset_right_lane3	9.577s	424.508m
+TIME	50.006
+SIM_START	Dataset_right_lane3	2020-11-12 14:38:15
+TIME	0.000
+SIMULATE	Dataset_right_lane3
+
+TIME	7.074
+SIM_END		Dataset_right_lane3	7.071s	312.661m
+TIME	9.854
+SIM_START	Dataset_right_lane4	2020-11-12 14:38:59
+TIME	0.000
+SIMULATE	Dataset_right_lane4
+
+TIME	10.216
+SIM_END		Dataset_right_lane4	10.213s	439.633m
+TIME	41.862
+SIM_START	Dataset_right_lane4	2020-11-12 14:44:35
+TIME	0.000
+SIMULATE	Dataset_right_lane4
+
+TIME	4.968
+SIM_END		Dataset_right_lane4	4.965s	219.398m
+TIME	7.276
+SIM_START	Dataset_right_lane5_verification	2020-11-12 14:45:11
+TIME	0.000
+SIMULATE	Dataset_right_lane5_verification
+
+TIME	9.325
+SIM_END		Dataset_right_lane5_verification	9.322s	413.172m
+TIME	45.594
+SHUTDOWN	CarMaker quick shutdown initiated
+

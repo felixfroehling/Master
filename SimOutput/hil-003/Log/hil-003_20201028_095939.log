@@ -1,0 +1,16 @@
+APPLICATION	Car_Generic <insert.your.version.no> #33 (linux64-9.0)
+COMPILED	felix@hil-003 2020-10-28 09:57:26
+ 
+FIRST_INIT	(internal default used)	2020-10-28 09:59:39
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:59:40
+SIM_START	Dataset_left_lane1	2020-10-28 09:59:45
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	9.506
+SIM_END		Dataset_left_lane1	9.503s	242.135m
+TIME	17.553
+SHUTDOWN	CarMaker quick shutdown initiated
+

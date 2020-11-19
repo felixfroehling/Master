@@ -1,0 +1,20 @@
+APPLICATION	CarMaker 9.0 - Car_Generic #405 (linux64-9.0)
+COMPILED	fh@obelix.ipg 2020-05-15 16:22:15
+ 
+FIRST_INIT	(internal default used)	2020-09-25 09:42:52
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:42:52
+SIM_START	BackAndForth	2020-09-25 09:42:53
+TIME	0.000
+SIMULATE	BackAndForth
+
+TIME	2.134
+SIM_END		BackAndForth	2.131s	0.725081m
+SIM_START	BackAndForth	2020-09-25 09:42:59
+TIME	0.000
+SIMULATE	BackAndForth
+
+SIM_END		BackAndForth	0.563s	1.93649e-05m
+SHUTDOWN	CarMaker quick shutdown initiated
+

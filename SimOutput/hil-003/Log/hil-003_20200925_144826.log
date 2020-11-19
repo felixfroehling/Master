@@ -1,0 +1,13 @@
+APPLICATION	Car_Generic <insert.your.version.no> #7 (linux64-9.0)
+COMPILED	felix@hil-003 2020-09-25 14:42:27
+ 
+FIRST_INIT	(internal default used)	2020-09-25 14:48:28
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:48:28
+SIM_START	Cruising_3lanes	2020-09-25 14:48:31
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates

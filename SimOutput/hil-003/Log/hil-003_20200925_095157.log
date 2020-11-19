@@ -1,0 +1,20 @@
+APPLICATION	Car_Generic <insert.your.version.no> #2 (linux64-9.0)
+COMPILED	felix@hil-003 2020-09-25 09:41:35
+ 
+FIRST_INIT	(internal default used)	2020-09-25 09:51:58
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:51:59
+SIM_START	Cruising_3lanes	2020-09-25 09:52:01
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	9.009
+SIM_END		Cruising_3lanes	9.006s	241.487m
+TIME	32.177
+SIM_START	Cruising_3lanes	2020-09-25 09:56:07
+TIME	0.012
+ERROR		Traffic object 9: Start road position is outside of route/path length
+ERROR		Can't get parameters of traffic object 9 (2)
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates

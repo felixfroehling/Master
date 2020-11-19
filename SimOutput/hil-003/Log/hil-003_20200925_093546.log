@@ -1,0 +1,18 @@
+APPLICATION	CarMaker 9.0 - Car_Generic #405 (linux64-9.0)
+COMPILED	fh@obelix.ipg 2020-05-15 16:22:15
+ 
+FIRST_INIT	(internal default used)	2020-09-25 09:35:48
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:35:48
+WARNING		Cannot start simulation, must be in state 'Idle' (currently 'Start')
+SIM_START	Examples/BasicFunctions/Driver/BackAndForth	2020-09-25 09:35:49
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/BackAndForth
+
+SIM_END		Examples/BasicFunctions/Driver/BackAndForth	0.395s	3.49636e-06m
+SIM_START	Examples/BasicFunctions/Driver/BackAndForth	2020-09-25 09:36:05
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/BackAndForth
+
+SIM_END		Examples/BasicFunctions/Driver/BackAndForth	1.631s	0.0776318m

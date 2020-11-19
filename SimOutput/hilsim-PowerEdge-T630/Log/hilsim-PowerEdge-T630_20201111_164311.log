@@ -1,0 +1,65 @@
+APPLICATION	Car_Generic <insert.your.version.no> #39 (linux64-9.0)
+COMPILED	felix@hilsim-poweredge-t630 2020-11-11 14:23:06
+ 
+FIRST_INIT	(internal default used)	2020-11-11 16:43:12
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:43:13
+SIM_START	Dataset_left_lane3	2020-11-11 16:43:20
+TIME	0.000
+SIMULATE	Dataset_left_lane3
+
+SIM_END		Dataset_left_lane3	0.765s	30.6709m
+TIME	4.852
+SIM_START	Dataset_left_lane3	2020-11-11 16:44:02
+TIME	0.000
+SIMULATE	Dataset_left_lane3
+
+TIME	7.002
+SIM_END		Dataset_left_lane3	6.997s	280.747m
+TIME	28.280
+SIM_START	Dataset_left_lane3	2020-11-11 16:47:44
+TIME	0.000
+SIMULATE	Dataset_left_lane3
+
+TIME	11.486
+SIM_END		Dataset_left_lane3	11.481s	461.416m
+TIME	14.224
+SIM_START	Dataset_left_lane3	2020-11-11 16:48:27
+TIME	0.000
+SIMULATE	Dataset_left_lane3
+
+TIME	9.563
+SIM_END		Dataset_left_lane3	9.558s	397.201m
+TIME	21.213
+SIM_START	Dataset_left_lane4	2020-11-11 16:50:35
+TIME	0.000
+SIMULATE	Dataset_left_lane4
+
+TIME	10.454
+SIM_END		Dataset_left_lane4	10.45s	434.371m
+SIM_START	Dataset_left_lane4	2020-11-11 16:50:57
+TIME	0.000
+SIMULATE	Dataset_left_lane4
+
+TIME	10.135
+SIM_END		Dataset_left_lane4	10.132s	364.593m
+SIM_START	Dataset_left_lane4	2020-11-11 16:51:17
+TIME	0.000
+SIMULATE	Dataset_left_lane4
+
+TIME	8.429
+SIM_END		Dataset_left_lane4	8.426s	350.018m
+SIM_START	Dataset_left_lane4	2020-11-11 16:51:33
+TIME	0.000
+SIMULATE	Dataset_left_lane4
+
+TIME	8.253
+SIM_END		Dataset_left_lane4	8.25s	293.714m
+TIME	12.833
+SIM_START	Dataset_left_lane5_verification	2020-11-11 16:52:30
+TIME	0.000
+SIMULATE	Dataset_left_lane5_verification
+
+TIME	13.715
+SIM_END		Dataset_left_lane5_verification	13.712s	458.383m

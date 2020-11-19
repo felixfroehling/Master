@@ -1,0 +1,34 @@
+APPLICATION	Car_Generic <insert.your.version.no> #30 (linux64-9.0)
+COMPILED	felix@hil-003 2020-10-27 09:48:10
+ 
+FIRST_INIT	(internal default used)	2020-10-27 09:52:52
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:52:53
+SIM_START	Dataset_left_lane1	2020-10-27 09:52:54
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	20.891
+SIM_END		Dataset_left_lane1	20.888s	413.811m
+TIME	40.239
+SIM_START	Dataset_left_lane1	2020-10-27 09:56:31
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	27.637
+SIM_END		Dataset_left_lane1	27.634s	495.76m
+TIME	8319.256
+SIM_START	Dataset_left_lane1	2020-10-28 08:58:57
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	27.637
+SIM_END		Dataset_left_lane1	27.634s	495.76m
+TIME	140.379
+SIM_START	Dataset_left_lane1	2020-10-28 09:18:14
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	17.690
+SIM_END		Dataset_left_lane1	17.687s	372.497m

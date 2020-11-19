@@ -1,0 +1,24 @@
+APPLICATION	CarMaker 9.0 - Car_Generic #405 (linux64-9.0)
+COMPILED	fh@obelix.ipg 2020-05-15 16:22:15
+ 
+FIRST_INIT	(internal default used)	2020-09-25 09:34:53
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:34:54
+SIM_START	Examples/BasicFunctions/Driver/ChangingLanes	2020-09-25 09:34:54
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/ChangingLanes
+
+SIM_END		Examples/BasicFunctions/Driver/ChangingLanes	1.442s	0.00810732m
+TIME	4.127
+SIM_START	Examples/BasicFunctions/Driver/ChangingLanes	2020-09-25 09:35:24
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/ChangingLanes
+
+TIME	3.705
+SIM_END		Examples/BasicFunctions/Driver/ChangingLanes	3.702s	7.27693m
+SIM_START	Examples/BasicFunctions/Driver/ChangingLanes	2020-09-25 09:35:30
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/ChangingLanes
+
+SIM_END		Examples/BasicFunctions/Driver/ChangingLanes	1.499s	0.0172849m

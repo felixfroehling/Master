@@ -1,0 +1,164 @@
+APPLICATION	Car_Generic <insert.your.version.no> #29 (linux64-9.0)
+COMPILED	felix@hil-003 2020-10-07 10:32:52
+ 
+FIRST_INIT	(internal default used)	2020-10-07 10:33:46
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:33:47
+SIM_START	Cruising_3lanes	2020-10-07 10:33:48
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	16.312
+SIM_END		Cruising_3lanes	16.309s	408.637m
+TIME	26.734
+SIM_START	Cruising_3lanes	2020-10-07 10:35:51
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	15.836
+SIM_END		Cruising_3lanes	15.833s	398.254m
+TIME	18.334
+SIM_START	Cruising_3lanes	2020-10-07 10:36:34
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	19.105
+SIM_END		Cruising_3lanes	19.102s	473.61m
+SIM_START	Cruising_3lanes	2020-10-07 10:36:55
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	5.042
+SIM_END		Cruising_3lanes	5.039s	147.308m
+SIM_START	Cruising_3lanes	2020-10-07 10:37:17
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	19.500
+SIM_END		Cruising_3lanes	19.497s	482.098m
+SIM_START	Cruising_3lanes	2020-10-07 10:37:38
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	18.678
+SIM_END		Cruising_3lanes	18.675s	464.403m
+TIME	30.440
+SIM_START	Dataset_left_lane1	2020-10-07 10:39:57
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	16.017
+SIM_END		Dataset_left_lane1	16.014s	440.64m
+TIME	21.557
+SIM_START	Dataset_left_lane2	2020-10-07 10:41:11
+TIME	0.000
+SIMULATE	Dataset_left_lane2
+
+TIME	7.683
+SIM_END		Dataset_left_lane2	7.68s	221.158m
+TIME	11.679
+SIM_START	Dataset_left_lane2	2020-10-07 10:42:00
+TIME	0.000
+SIMULATE	Dataset_left_lane2
+
+TIME	18.390
+SIM_END		Dataset_left_lane2	18.387s	495.768m
+SIM_START	Dataset_left_lane1	2020-10-07 10:42:39
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	2.740
+SIM_END		Dataset_left_lane1	2.737s	83.6962m
+SIM_START	Dataset_left_lane2	2020-10-07 10:42:52
+TIME	0.000
+SIMULATE	Dataset_left_lane2
+
+TIME	10.331
+SIM_END		Dataset_left_lane2	10.328s	292.486m
+TIME	17.481
+SIM_START	Dataset_left_lane3	2020-10-07 10:44:15
+TIME	0.000
+SIMULATE	Dataset_left_lane3
+
+TIME	3.456
+SIM_END		Dataset_left_lane3	3.453s	102.834m
+SIM_START	Dataset_left_lane3	2020-10-07 10:44:31
+TIME	0.000
+SIMULATE	Dataset_left_lane3
+
+TIME	18.064
+SIM_END		Dataset_left_lane3	18.061s	414.421m
+TIME	27.522
+SIM_START	Dataset_middle_lane1	2020-10-07 10:46:26
+TIME	0.000
+SIMULATE	Dataset_middle_lane1
+
+TIME	10.059
+SIM_END		Dataset_middle_lane1	10.056s	285.229m
+SIM_START	Dataset_middle_lane1	2020-10-07 10:46:47
+TIME	0.000
+SIMULATE	Dataset_middle_lane1
+
+TIME	12.848
+SIM_END		Dataset_middle_lane1	12.843s	358.847m
+TIME	19.284
+SIM_START	Dataset_middle_lane2	2020-10-07 10:48:06
+TIME	0.000
+SIMULATE	Dataset_middle_lane2
+
+TIME	18.200
+SIM_END		Dataset_middle_lane2	18.197s	495.757m
+TIME	21.238
+SIM_START	Dataset_middle_lane2	2020-10-07 10:48:56
+TIME	0.000
+SIMULATE	Dataset_middle_lane2
+
+TIME	10.525
+SIM_END		Dataset_middle_lane2	10.522s	297.653m
+TIME	14.133
+SIM_START	Dataset_middle_lane3	2020-10-07 10:49:45
+TIME	0.000
+SIMULATE	Dataset_middle_lane3
+
+TIME	18.232
+SIM_END		Dataset_middle_lane3	18.229s	422.147m
+SIM_START	Dataset_middle_lane3	2020-10-07 10:50:24
+TIME	0.000
+SIMULATE	Dataset_middle_lane3
+
+TIME	18.200
+SIM_END		Dataset_middle_lane3	18.197s	495.757m
+TIME	21.724
+SIM_START	Dataset_right_lane1	2020-10-07 10:51:19
+TIME	0.000
+SIMULATE	Dataset_right_lane1
+
+TIME	8.104
+SIM_END		Dataset_right_lane1	8.101s	232.6m
+SIM_START	Dataset_right_lane1	2020-10-07 10:51:43
+TIME	0.000
+SIMULATE	Dataset_right_lane1
+
+TIME	8.125
+SIM_END		Dataset_right_lane1	8.122s	242.24m
+SIM_START	Dataset_right_lane1	2020-10-07 10:52:01
+TIME	0.000
+SIMULATE	Dataset_right_lane1
+
+TIME	10.919
+SIM_END		Dataset_right_lane1	10.916s	311.114m
+TIME	15.457
+SIM_START	Dataset_right_lane2	2020-10-07 10:52:59
+TIME	0.000
+SIMULATE	Dataset_right_lane2
+
+TIME	20.267
+SIM_END		Dataset_right_lane2	20.264s	495.759m
+TIME	27.047
+SIM_START	Dataset_left_lane1	2020-10-07 10:54:29
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	19.973
+SIM_END		Dataset_left_lane1	19.97s	492.226m

@@ -1,0 +1,55 @@
+APPLICATION	Car_Generic <insert.your.version.no> #3 (linux64-9.0)
+COMPILED	felix@hil-003 2020-09-25 10:04:58
+ 
+FIRST_INIT	(internal default used)	2020-09-25 10:07:54
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:07:54
+SIM_START	Cruising_3lanes	2020-09-25 10:07:56
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	22.932
+SIM_END		Cruising_3lanes	22.929s	628.076m
+SIM_START	Cruising_3lanes	2020-09-25 10:08:41
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	15.137
+SIM_END		Cruising_3lanes	15.134s	411.512m
+SIM_START	Cruising_3lanes	2020-09-25 10:09:04
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	8.682
+SIM_END		Cruising_3lanes	8.679s	232.386m
+TIME	11.312
+SIM_START	Cruising_3lanes	2020-09-25 10:09:41
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	10.213
+SIM_END		Cruising_3lanes	10.21s	274.97m
+TIME	13.295
+SIM_START	Cruising_3lanes	2020-09-25 10:10:24
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	10.966
+SIM_END		Cruising_3lanes	10.963s	295.79m
+TIME	18.884
+SIM_START	Cruising_3lanes	2020-09-25 10:11:56
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	4.881
+SIM_END		Cruising_3lanes	4.878s	127.996m
+SIM_START	Cruising_3lanes	2020-09-25 10:12:16
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	5.976
+SIM_END		Cruising_3lanes	5.973s	157.505m
+TIME	64.701
+SHUTDOWN	CarMaker quick shutdown initiated
+

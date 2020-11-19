@@ -1,0 +1,577 @@
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 09:34:52
+
+
+SYSTEM_INFO	CarMaker 9.0 - Car_Generic #405	fh@obelix.ipg 2020-05-15 16:22:15	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601019293	hil-003			0	0	0
+SIM	1601019294	hil-003	felix	Examples/BasicFunctions/Driver/ChangingLanes	0	1.442	0.00810732
+SIM	1601019324	hil-003	felix	Examples/BasicFunctions/Driver/ChangingLanes	0	3.702	7.27693
+SIM	1601019330	hil-003	felix	Examples/BasicFunctions/Driver/ChangingLanes	0	1.499	0.0172849
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 09:35:46
+
+
+SYSTEM_INFO	CarMaker 9.0 - Car_Generic #405	fh@obelix.ipg 2020-05-15 16:22:15	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601019348	hil-003			0	0	0
+SIM	1601019349	hil-003	felix	Examples/BasicFunctions/Driver/BackAndForth	0	0.395	3.49636e-06
+SIM	1601019365	hil-003	felix	Examples/BasicFunctions/Driver/BackAndForth	0	1.631	0.0776318
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 09:37:26
+
+
+SYSTEM_INFO	CarMaker 9.0 - Car_Generic #405	fh@obelix.ipg 2020-05-15 16:22:15	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601019448	hil-003			0	0	0
+SIM	1601019449	hil-003	felix	BackAndForth	0	0.337	2.21273e-06
+SIM	1601019460	hil-003	felix	BackAndForth	0	3.185	4.5132
+SIM	1601019465	hil-003	felix	BackAndForth	0	0.43	5.12387e-06
+SIM	1601019467	hil-003	felix	BackAndForth	0	0.413	4.23863e-06
+SIM	1601019470	hil-003	felix	BackAndForth	0	0.585	2.30041e-05
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 09:38:14
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #1	felix@hil-003 2020-09-25 09:35:06	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601019495	hil-003			0	0	0
+SIM	1601019499	hil-003	felix	BackAndForth	0	2.107	0.677183
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 09:41:46
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #2	felix@hil-003 2020-09-25 09:41:35	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601019708	hil-003			0	0	0
+SIM	1601019712	hil-003	felix	BackAndForth	0	2.706	2.3841
+SIM	1601019733	hil-003	felix	BackAndForth	0	0.26	1.51816e-06
+SIM	1601019735	hil-003	felix	BackAndForth	0	2.014	0.507751
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 09:42:50
+
+
+SYSTEM_INFO	CarMaker 9.0 - Car_Generic #405	fh@obelix.ipg 2020-05-15 16:22:15	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601019772	hil-003			0	0	0
+SIM	1601019773	hil-003	felix	BackAndForth	0	2.131	0.725081
+SIM	1601019779	hil-003	felix	BackAndForth	0	0.563	1.93649e-05
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 09:43:15
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #2	felix@hil-003 2020-09-25 09:41:35	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601019797	hil-003			0	0	0
+SIM	1601019799	hil-003	felix	BackAndForth	0	2.711	2.40283
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 09:45:58
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #2	felix@hil-003 2020-09-25 09:41:35	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601019959	hil-003			0	0	0
+SIM	1601019962	hil-003	felix	Examples/BasicFunctions/Road/Expressway/Cruising_3lanes	0	16.598	452.207
+SIM	1601020029	hil-003	felix	Examples/BasicFunctions/Road/Expressway/Cruising_3lanes	0	0	0
+SIM	1601020032	hil-003	felix	Examples/BasicFunctions/Road/Expressway/Cruising_3lanes	0	1.755	46.3946
+SIM	1601020049	hil-003	felix	Examples/BasicFunctions/Road/Expressway/Cruising_3lanes	0	51.385	1418.52
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 09:51:57
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #2	felix@hil-003 2020-09-25 09:41:35	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601020318	hil-003			0	0	0
+SIM	1601020321	hil-003	felix	Cruising_3lanes	0	9.006	241.487
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 09:58:33
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #2	felix@hil-003 2020-09-25 09:41:35	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601020714	hil-003			0	0	0
+SIM	1601020715	hil-003	felix	Cruising_3lanes	0	0.384	10.6504
+SIM	1601020734	hil-003	felix	Cruising_3lanes	0	6.13	161.794
+SIM	1601020802	hil-003	felix	Cruising_3lanes	0	4.62	121.158
+SIM	1601020832	hil-003	felix	Cruising_3lanes	0	34.706	955.215
+SIM	1601020926	hil-003	felix	Cruising_3lanes	0	12.665	342.918
+SIM	1601021106	hil-003	felix	Cruising_3lanes	0	14.148	384.103
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 10:07:52
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #3	felix@hil-003 2020-09-25 10:04:58	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601021274	hil-003			0	0	0
+SIM	1601021276	hil-003	felix	Cruising_3lanes	0	22.929	628.076
+SIM	1601021321	hil-003	felix	Cruising_3lanes	0	15.134	411.512
+SIM	1601021344	hil-003	felix	Cruising_3lanes	0	8.679	232.386
+SIM	1601021381	hil-003	felix	Cruising_3lanes	0	10.21	274.97
+SIM	1601021424	hil-003	felix	Cruising_3lanes	0	10.963	295.79
+SIM	1601021516	hil-003	felix	Cruising_3lanes	0	4.878	127.996
+SIM	1601021536	hil-003	felix	Cruising_3lanes	0	5.973	157.505
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 10:26:37
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #3	felix@hil-003 2020-09-25 10:04:58	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601022399	hil-003			0	0	0
+SIM	1601022403	hil-003	felix	Cruising_3lanes	0	6.919	183.504
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 10:48:48
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #3	felix@hil-003 2020-09-25 10:04:58	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601023729	hil-003			0	0	0
+SIM	1601023733	hil-003	felix	Cruising_3lanes	1	0	0
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 10:53:26
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #3	felix@hil-003 2020-09-25 10:04:58	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601024007	hil-003			0	0	0
+SIM	1601024010	hil-003	felix	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCatCity	0	19.988	236.469
+SIM	1601024053	hil-003	felix	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	0	16.005	159.619
+SIM	1601024162	hil-003	felix	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	0	14.064	155.379
+SIM	1601024219	hil-003	felix	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	0	15.702	159.617
+SIM	1601024352	hil-003	felix	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	0	20.051	175.639
+SIM	1601024505	hil-003	felix	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	0	19.796	173.388
+SIM	1601024862	hil-003	felix	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	0	15.571	159.614
+SIM	1601025067	hil-003	felix	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	0	16.377	159.619
+SIM	1601025579	hil-003	felix	Examples/DriverAssistance/ParkingAssist/EnterCarPark	0	107.093	415.649
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 12:12:26
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #3	felix@hil-003 2020-09-25 10:04:58	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601028748	hil-003			0	0	0
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 12:14:07
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #3	felix@hil-003 2020-09-25 10:04:58	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601028849	hil-003			0	0	0
+SIM	1601028852	hil-003	felix	Cruising_3lanes	0	6.33	2.87189e-05
+SIM	1601028969	hil-003	felix	Cruising_3lanes	0	7.543	3.79318e-05
+SIM	1601029022	hil-003	felix	Cruising_3lanes	0	4.725	1.82505e-05
+SIM	1601029840	hil-003	felix	Cruising_3lanes	0	5.602	2.36158e-05
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 12:33:34
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #4	felix@hil-003 2020-09-25 12:29:35	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601030016	hil-003			0	0	0
+SIM	1601030019	hil-003	felix	Cruising_3lanes	0	4.157	1.51432e-05
+SIM	1601030041	hil-003	felix	Cruising_3lanes	0	6.402	2.92428e-05
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 12:51:34
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #6	felix@hil-003 2020-09-25 12:49:44	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601031095	hil-003			0	0	0
+SIM	1601031098	hil-003	felix	Cruising_3lanes	0	4.572	1.73967e-05
+SIM	1601031132	hil-003	felix	Cruising_3lanes	0	6.883	3.28197e-05
+SIM	1601035181	hil-003	felix	Cruising_3lanes	0	3.848	1.28898e-05
+SIM	1601035241	hil-003	felix	Cruising_3lanes	0	7.177	3.1841e-05
+SIM	1601035259	hil-003	felix	Cruising_3lanes	0	5.716	2.26212e-05
+SIM	1601035281	hil-003	felix	Cruising_3lanes	0	7.136	3.16849e-05
+SIM	1601037807	hil-003	felix	Cruising_3lanes	0	5.556	2.17136e-05
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 14:44:38
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #7	felix@hil-003 2020-09-25 14:42:27	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601037880	hil-003			0	0	0
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 14:48:26
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #7	felix@hil-003 2020-09-25 14:42:27	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601038108	hil-003			0	0	0
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 14:49:34
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #7	felix@hil-003 2020-09-25 14:42:27	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601038176	hil-003			0	0	0
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 14:51:23
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #8	felix@hil-003 2020-09-25 14:50:44	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601038285	hil-003			0	0	0
+SIM	1601038288	hil-003	felix	Cruising_3lanes	0	6.099	2.46052e-05
+SIM	1601038327	hil-003	felix	Cruising_3lanes	0	23.401	0.00018676
+SIM	1601038379	hil-003	felix	Cruising_3lanes	0	2.849	8.57228e-06
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 14:53:39
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #9	felix@hil-003 2020-09-25 14:52:02	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601038420	hil-003			0	0	0
+SIM	1601038423	hil-003	felix	Cruising_3lanes	0	2.021	5.69598e-06
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 15:12:22
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #10	felix@hil-003 2020-09-25 15:11:51	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601039543	hil-003			0	0	0
+SIM	1601039547	hil-003	felix	Cruising_3lanes	0	2.123	5.965e-06
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 15:15:59
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #12	felix@hil-003 2020-09-25 15:15:38	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601039760	hil-003			0	0	0
+SIM	1601039764	hil-003	felix	Cruising_3lanes	0	2.297	6.50388e-06
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 15:18:53
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #13	felix@hil-003 2020-09-25 15:18:07	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601039935	hil-003			0	0	0
+SIM	1601039938	hil-003	felix	Cruising_3lanes	0	0.56	3.847e-06
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 15:31:05
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #14	felix@hil-003 2020-09-25 15:30:37	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601040667	hil-003			0	0	0
+SIM	1601040670	hil-003	felix	Cruising_3lanes	0	1.196	4.57494e-06
+SIM	1601040843	hil-003	felix	Cruising_3lanes	0	6.876	2.93996e-05
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-09-25 15:37:57
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #15	felix@hil-003 2020-09-25 15:37:16	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601041078	hil-003			0	0	0
+SIM	1601041082	hil-003	felix	Cruising_3lanes	0	1.752	5.16173e-06
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-06 11:06:24
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #16	felix@hil-003 2020-10-06 11:05:56	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601975184	hil-003			0	0	0
+SIM	1601975186	hil-003	felix	Cruising_3lanes	0	10.913	5.96155e-05
+SIM	1601975277	hil-003	felix	Cruising_3lanes	0	2.378	6.78681e-06
+SIM	1601975315	hil-003	felix	Cruising_3lanes	0	2.596	7.58276e-06
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-06 11:11:34
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #17	felix@hil-003 2020-10-06 11:07:38	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601975495	hil-003			0	0	0
+SIM	1601975497	hil-003	felix	Cruising_3lanes	0	1.939	5.50502e-06
+SIM	1601975532	hil-003	felix	BackAndForth	0	9.31	75.3008
+SIM	1601975577	hil-003	felix	BackAndForth	0	10.441	87.6963
+SIM	1601975592	hil-003	felix	BackAndForth	0	1.03	3.10208e-05
+SIM	1601975600	hil-003	felix	BackAndForth	0	3.504	4.02731
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-06 13:01:25
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #18	felix@hil-003 2020-10-06 13:00:13	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601982085	hil-003			0	0	0
+SIM	1601982087	hil-003	felix	Cruising_3lanes	0	2.226	6.2716e-06
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-06 13:02:14
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #19	felix@hil-003 2020-10-06 13:01:50	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601982134	hil-003			0	0	0
+SIM	1601982136	hil-003	felix	BackAndForth	0	1.635	0.000121984
+SIM	1601982250	hil-003	felix	BackAndForth	0	9.672	74.4191
+SIM	1601982275	hil-003	felix	BackAndForth	0	3.028	72.5892
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-06 13:28:10
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #21	felix@hil-003 2020-10-06 13:27:32	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601983690	hil-003			0	0	0
+SIM	1601983692	hil-003	felix	BackAndForth	0	60.936	474.822
+SIM	1601983887	hil-003	felix	BackAndForth	0	60.936	474.822
+SIM	1601984328	hil-003	felix	BackAndForth	0	9.311	103.409
+SIM	1601984393	hil-003	felix	BackAndForth	0	5.608	55.7953
+SIM	1601984407	hil-003	felix	BackAndForth	0	9.609	211.727
+SIM	1601984419	hil-003	felix	BackAndForth	0	6.713	158.042
+SIM	1601984444	hil-003	felix	BackAndForth	0	5.334	165.214
+SIM	1601984478	hil-003	felix	BackAndForth	0	6.669	225.151
+SIM	1601984612	hil-003	felix	BackAndForth	0	14.34	395.786
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-06 13:54:37
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #22	felix@hil-003 2020-10-06 13:53:26	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601985277	hil-003			0	0	0
+SIM	1601985279	hil-003	felix	BackAndForth	0	7.749	247.127
+SIM	1601985289	hil-003	felix	BackAndForth	0	12.058	339.002
+SIM	1601985308	hil-003	felix	BackAndForth	0	7.831	248.75
+SIM	1601985325	hil-003	felix	BackAndForth	0	4.437	175.058
+SIM	1601985340	hil-003	felix	BackAndForth	0	6.787	244.366
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-06 13:57:26
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #23	felix@hil-003 2020-10-06 13:56:43	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601985446	hil-003			0	0	0
+SIM	1601985448	hil-003	felix	BackAndForth	0	5.867	226.268
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-06 15:39:53
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #25	felix@hil-003 2020-10-06 14:04:23	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601991594	hil-003			0	0	0
+SIM	1601991596	hil-003	felix	unknown	0	26.441	495.775
+SIM	1601991650	hil-003	felix	unknown	0	18.318	298.113
+SIM	1601991775	hil-003	felix	unknown	0	15.1	248.501
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-06 15:57:44
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #25	felix@hil-003 2020-10-06 14:04:23	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1601992664	hil-003			0	0	0
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-07 09:10:42
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #25	felix@hil-003 2020-10-06 14:04:23	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1602054642	hil-003			0	0	0
+SIM	1602054644	hil-003	felix	Cruising_3lanes	0	3.661	1.15167e-05
+SIM	1602054661	hil-003	felix	Cruising_3lanes	0	31.906	76.654
+SIM	1602054696	hil-003	felix	Cruising_3lanes	0	19.966	495.762
+SIM	1602054739	hil-003	felix	Cruising_3lanes	0	19.966	495.762
+SIM	1602054765	hil-003	felix	Cruising_3lanes	0	15.08	381.989
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-07 10:15:57
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #26	felix@hil-003 2020-10-07 10:14:32	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1602058557	hil-003			0	0	0
+SIM	1602058559	hil-003	felix	Cruising_3lanes	0	16.478	412.36
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-07 10:17:14
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #27	felix@hil-003 2020-10-07 10:16:53	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1602058634	hil-003			0	0	0
+SIM	1602058636	hil-003	felix	Cruising_3lanes	0	19.966	495.762
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-07 10:18:25
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #28	felix@hil-003 2020-10-07 10:18:10	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1602058705	hil-003			0	0	0
+SIM	1602058707	hil-003	felix	Cruising_3lanes	0	16.424	411.171
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-07 10:33:46
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #29	felix@hil-003 2020-10-07 10:32:52	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1602059626	hil-003			0	0	0
+SIM	1602059628	hil-003	felix	Cruising_3lanes	0	16.309	408.637
+SIM	1602059751	hil-003	felix	Cruising_3lanes	0	15.833	398.254
+SIM	1602059794	hil-003	felix	Cruising_3lanes	0	19.102	473.61
+SIM	1602059815	hil-003	felix	Cruising_3lanes	0	5.039	147.308
+SIM	1602059837	hil-003	felix	Cruising_3lanes	0	19.497	482.098
+SIM	1602059858	hil-003	felix	Cruising_3lanes	0	18.675	464.403
+SIM	1602059997	hil-003	felix	Dataset_left_lane1	0	16.014	440.64
+SIM	1602060071	hil-003	felix	Dataset_left_lane2	0	7.68	221.158
+SIM	1602060120	hil-003	felix	Dataset_left_lane2	0	18.387	495.768
+SIM	1602060159	hil-003	felix	Dataset_left_lane1	0	2.737	83.6962
+SIM	1602060172	hil-003	felix	Dataset_left_lane2	0	10.328	292.486
+SIM	1602060255	hil-003	felix	Dataset_left_lane3	0	3.453	102.834
+SIM	1602060271	hil-003	felix	Dataset_left_lane3	0	18.061	414.421
+SIM	1602060386	hil-003	felix	Dataset_middle_lane1	0	10.056	285.229
+SIM	1602060407	hil-003	felix	Dataset_middle_lane1	0	12.843	358.847
+SIM	1602060486	hil-003	felix	Dataset_middle_lane2	0	18.197	495.757
+SIM	1602060536	hil-003	felix	Dataset_middle_lane2	0	10.522	297.653
+SIM	1602060585	hil-003	felix	Dataset_middle_lane3	0	18.229	422.147
+SIM	1602060624	hil-003	felix	Dataset_middle_lane3	0	18.197	495.757
+SIM	1602060679	hil-003	felix	Dataset_right_lane1	0	8.101	232.6
+SIM	1602060703	hil-003	felix	Dataset_right_lane1	0	8.122	242.24
+SIM	1602060721	hil-003	felix	Dataset_right_lane1	0	10.916	311.114
+SIM	1602060779	hil-003	felix	Dataset_right_lane2	0	20.264	495.759
+SIM	1602060869	hil-003	felix	Dataset_left_lane1	0	19.97	492.226
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-07 14:20:33
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #29	felix@hil-003 2020-10-07 10:32:52	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1602073233	hil-003			0	0	0
+SIM	1602073235	hil-003	felix	Dataset_left_lane1	0	9.262	252.548
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-22 10:12:06
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #29	felix@hil-003 2020-10-07 10:32:52	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1603354326	hil-003			0	0	0
+SIM	1603354329	hil-003	felix	Dataset_left_lane3	0	13.066	368.566
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-27 09:40:56
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #29	felix@hil-003 2020-10-07 10:32:52	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1603788056	hil-003			0	0	0
+SIM	1603788059	hil-003	felix	Dataset_left_lane1	0	18.197	495.757
+SIM	1603788095	hil-003	felix	Dataset_left_lane1	0	18.197	495.757
+SIM	1603788117	hil-003	felix	Dataset_left_lane1	0	3.26	98.6116
+SIM	1603788168	hil-003	felix	Dataset_left_lane1	0	11.983	336.305
+SIM	1603788193	hil-003	felix	Dataset_left_lane1	0	4.649	137.635
+SIM	1603788250	hil-003	felix	Dataset_left_lane1	0	18.197	495.757
+SIM	1603788443	hil-003	felix	Dataset_left_lane1	0	10.649	301.031
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-27 09:52:52
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #30	felix@hil-003 2020-10-27 09:48:10	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1603788772	hil-003			0	0	0
+SIM	1603788774	hil-003	felix	Dataset_left_lane1	0	20.888	413.811
+SIM	1603788991	hil-003	felix	Dataset_left_lane1	0	27.634	495.76
+SIM	1603871937	hil-003	felix	Dataset_left_lane1	0	27.634	495.76
+SIM	1603873094	hil-003	felix	Dataset_left_lane1	0	17.687	372.497
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 09:21:17
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #30	felix@hil-003 2020-10-27 09:48:10	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1603873277	hil-003			0	0	0
+SIM	1603873279	hil-003	felix	Dataset_left_lane1	0	2.529	77.5947
+SIM	1603873305	hil-003	felix	Dataset_left_lane1	0	1.924	60.1118
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 09:29:10
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #30	felix@hil-003 2020-10-27 09:48:10	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1603873751	hil-003			0	0	0
+SIM	1603873771	hil-003	felix	Dataset_left_lane1	0	1.972	61.5187
+SIM	1603873927	hil-003	felix	Dataset_left_lane1	0	1.351	43.043
+SIM	1603873966	hil-003	felix	Dataset_left_lane1	0	7.994	211.62
+SIM	1603873980	hil-003	felix	Dataset_left_lane1	0	2.184	67.6913
+SIM	1603874108	hil-003	felix	Dataset_left_lane1	0	1.736	54.5681
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 09:41:22
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #31	felix@hil-003 2020-10-28 09:40:57	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 09:43:08
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #31	felix@hil-003 2020-10-28 09:40:57	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 09:47:24
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #31	felix@hil-003 2020-10-28 09:40:57	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 09:51:57
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #31	felix@hil-003 2020-10-28 09:40:57	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 09:53:00
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #31	felix@hil-003 2020-10-28 09:40:57	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 09:53:55
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #31	felix@hil-003 2020-10-28 09:40:57	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 09:55:43
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #32	felix@hil-003 2020-10-28 09:55:12	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 09:56:00
+
+
+SYSTEM_INFO	CarMaker 9.0 - Car_Generic #405	fh@obelix.ipg 2020-05-15 16:22:15	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1603875361	hil-003			0	0	0
+SIM	1603875366	hil-003	felix	Cruising_3lanes	0	1.188	38.0885
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 09:58:12
+
+
+SYSTEM_INFO	CarMaker 9.0 - Car_Generic #405	fh@obelix.ipg 2020-05-15 16:22:15	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1603875492	hil-003			0	0	0
+SIM	1603875494	hil-003	felix	Dataset_left_lane1	0	2.26	69.8879
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 09:59:39
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #33	felix@hil-003 2020-10-28 09:57:26	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+SIM	1603875579	hil-003			0	0	0
+SIM	1603875585	hil-003	felix	Dataset_left_lane1	0	9.503	242.135
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 10:02:16
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #34	felix@hil-003 2020-10-28 10:01:16	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 10:07:10
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #34	felix@hil-003 2020-10-28 10:01:16	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 10:09:07
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #35	felix@hil-003 2020-10-28 10:08:47	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)
+
+
+SYSTEM_START	-	hil-003	hil-003	2020-10-28 10:09:38
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #36	felix@hil-003 2020-10-28 10:09:25	(9.0 fh@obelix.ipg 2020-05-15 16:22:13)

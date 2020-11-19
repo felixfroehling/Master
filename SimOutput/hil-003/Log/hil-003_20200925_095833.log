@@ -1,0 +1,47 @@
+APPLICATION	Car_Generic <insert.your.version.no> #2 (linux64-9.0)
+COMPILED	felix@hil-003 2020-09-25 09:41:35
+ 
+FIRST_INIT	(internal default used)	2020-09-25 09:58:34
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:58:35
+SIM_START	Cruising_3lanes	2020-09-25 09:58:35
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+SIM_END		Cruising_3lanes	0.384s	10.6504m
+TIME	2.153
+SIM_START	Cruising_3lanes	2020-09-25 09:58:54
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	6.133
+SIM_END		Cruising_3lanes	6.13s	161.794m
+TIME	12.105
+SIM_START	Cruising_3lanes	2020-09-25 10:00:02
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	4.623
+SIM_END		Cruising_3lanes	4.62s	121.158m
+TIME	6.985
+SIM_START	Cruising_3lanes	2020-09-25 10:00:32
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	34.709
+SIM_END		Cruising_3lanes	34.706s	955.215m
+TIME	40.349
+SIM_START	Cruising_3lanes	2020-09-25 10:02:06
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	12.668
+SIM_END		Cruising_3lanes	12.665s	342.918m
+TIME	29.224
+SIM_START	Cruising_3lanes	2020-09-25 10:05:06
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+TIME	14.151
+SIM_END		Cruising_3lanes	14.148s	384.103m

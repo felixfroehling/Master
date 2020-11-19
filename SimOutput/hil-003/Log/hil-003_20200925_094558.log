@@ -1,0 +1,32 @@
+APPLICATION	Car_Generic <insert.your.version.no> #2 (linux64-9.0)
+COMPILED	felix@hil-003 2020-09-25 09:41:35
+ 
+FIRST_INIT	(internal default used)	2020-09-25 09:45:59
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:46:00
+SIM_START	Examples/BasicFunctions/Road/Expressway/Cruising_3lanes	2020-09-25 09:46:02
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Road/Expressway/Cruising_3lanes
+
+TIME	16.601
+SIM_END		Examples/BasicFunctions/Road/Expressway/Cruising_3lanes	16.598s	452.207m
+TIME	21.489
+SIM_START	Examples/BasicFunctions/Road/Expressway/Cruising_3lanes	2020-09-25 09:47:09
+TIME	0.126
+SIM_END		Examples/BasicFunctions/Road/Expressway/Cruising_3lanes	0s	0m
+SIM_START	Examples/BasicFunctions/Road/Expressway/Cruising_3lanes	2020-09-25 09:47:12
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Road/Expressway/Cruising_3lanes
+
+SIM_END		Examples/BasicFunctions/Road/Expressway/Cruising_3lanes	1.755s	46.3946m
+TIME	3.128
+SIM_START	Examples/BasicFunctions/Road/Expressway/Cruising_3lanes	2020-09-25 09:47:29
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Road/Expressway/Cruising_3lanes
+
+TIME	51.388
+SIM_END		Examples/BasicFunctions/Road/Expressway/Cruising_3lanes	51.385s	1418.52m
+TIME	54.357
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,57 @@
+APPLICATION	Car_Generic <insert.your.version.no> #37 (linux64-9.0)
+COMPILED	felix@hilsim-poweredge-t630 2020-10-29 10:18:36
+ 
+FIRST_INIT	(internal default used)	2020-11-11 09:24:42
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:24:42
+SIM_START	Dataset_left_lane1	2020-11-11 09:24:44
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	3.791
+SIM_END		Dataset_left_lane1	3.788s	113.529m
+TIME	5.803
+SIM_START	Dataset_left_lane1	2020-11-11 09:25:09
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	11.754
+SIM_END		Dataset_left_lane1	11.749s	330.145m
+SIM_START	Dataset_left_lane1	2020-11-11 09:25:38
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	6.325
+SIM_END		Dataset_left_lane1	6.322s	183.988m
+SIM_START	Dataset_left_lane1	2020-11-11 09:25:55
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	15.600
+SIM_END		Dataset_left_lane1	15.595s	424.252m
+TIME	21.956
+SIM_START	Dataset_left_lane1	2020-11-11 09:27:17
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	18.998
+SIM_END		Dataset_left_lane1	18.993s	495.775m
+TIME	39.210
+SIM_START	Dataset_left_lane1	2020-11-11 09:31:00
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	12.880
+SIM_END		Dataset_left_lane1	12.875s	378.77m
+TIME	19.558
+SIM_START	Dataset_left_lane1	2020-11-11 09:32:22
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	6.821
+SIM_END		Dataset_left_lane1	6.818s	214.863m
+TIME	11.403
+SIM_START	Dataset_left_lane1	2020-11-11 09:33:17
+TIME	0.014
+ERROR		IPGDriver: Race driver needs knowledge!  (id=400)

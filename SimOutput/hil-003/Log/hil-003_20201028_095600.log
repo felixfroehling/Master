@@ -1,0 +1,12 @@
+APPLICATION	CarMaker 9.0 - Car_Generic #405 (linux64-9.0)
+COMPILED	fh@obelix.ipg 2020-05-15 16:22:15
+ 
+FIRST_INIT	(internal default used)	2020-10-28 09:56:01
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:56:01
+SIM_START	Cruising_3lanes	2020-10-28 09:56:06
+TIME	0.000
+SIMULATE	Cruising_3lanes
+
+SIM_END		Cruising_3lanes	1.188s	38.0885m

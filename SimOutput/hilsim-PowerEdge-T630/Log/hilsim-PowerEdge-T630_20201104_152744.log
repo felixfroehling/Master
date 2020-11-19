@@ -1,0 +1,155 @@
+APPLICATION	Car_Generic <insert.your.version.no> #37 (linux64-9.0)
+COMPILED	felix@hilsim-poweredge-t630 2020-10-29 10:18:36
+ 
+FIRST_INIT	(internal default used)	2020-11-04 15:27:45
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:27:45
+SIM_START	CameraCalibration	2020-11-04 15:27:48
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+SIM_START	CameraCalibration	2020-11-04 15:27:52
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+SIM_START	CameraCalibration	2020-11-04 15:27:56
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+TIME	56.449
+SIM_START	CameraCalibration	2020-11-04 15:37:20
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+TIME	18.625
+SIM_START	CameraCalibration	2020-11-04 15:40:28
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+SIM_START	CameraCalibration	2020-11-04 15:40:43
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+TIME	2.867
+SIM_START	CameraCalibration	2020-11-04 15:41:13
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+TIME	7.547
+SIM_START	CameraCalibration	2020-11-04 15:42:30
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+TIME	4.017
+SIM_START	CameraCalibration	2020-11-04 15:43:11
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+TIME	8.257
+SIM_START	CameraCalibration	2020-11-04 15:44:34
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+SIM_START	CameraCalibration	2020-11-04 15:44:54
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+TIME	10.427
+SIM_START	CameraCalibration	2020-11-04 15:46:40
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+SIM_START	CameraCalibration	2020-11-04 15:46:55
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+TIME	13.379
+SIM_START	CameraCalibration	2020-11-04 15:49:10
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+SIM_START	CameraCalibration	2020-11-04 15:49:18
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+SIM_START	CameraCalibration	2020-11-04 15:49:29
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+SIM_START	CameraCalibration	2020-11-04 15:49:40
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+TIME	6.321
+SIM_START	CameraCalibration	2020-11-04 15:50:45
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+SIM_START	CameraCalibration	2020-11-04 15:51:04
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+TIME	3.845
+SIM_START	CameraCalibration	2020-11-04 15:51:44
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+SIM_START	CameraCalibration	2020-11-04 15:51:50
+TIME	0.000
+SIMULATE	CameraCalibration
+
+SIM_END		CameraCalibration	0.1s	8.74974e-08m
+TIME	282.049
+SIM_START	Dataset_left_lane2	2020-11-04 16:38:52
+TIME	0.000
+SIMULATE	Dataset_left_lane2
+
+TIME	5.272
+SIM_END		Dataset_left_lane2	5.267s	97.9549m
+TIME	172.822
+SIM_START	Dataset_left_lane2	2020-11-04 17:06:57
+TIME	0.000
+SIMULATE	Dataset_left_lane2
+
+TIME	7.762
+SIM_END		Dataset_left_lane2	7.759s	112.199m
+TIME	16034.773
+SIM_START	Examples/BasicFunctions/Movie/RollingShutter	2020-11-06 13:38:18
+TIME	30.379
+ERROR		Start hasn't finished within 240 seconds. Testrun aborted.
+SIM_ABORT	Examples/BasicFunctions/Movie/RollingShutter	0s	0m
+TIME	55.876
+SIM_START	Examples/DriverAssistance/BrakingAssist/AEB_ApproachingCyclist	2020-11-06 13:47:36
+TIME	0.029
+WARNING		Cannot start simulation, must be in state 'Idle' (currently 'StartWait')
+TIME	30.921
+ERROR		Start hasn't finished within 240 seconds. Testrun aborted.
+SIM_ABORT	Examples/DriverAssistance/BrakingAssist/AEB_ApproachingCyclist	0s	0m
+TIME	9894.205
+SIM_START	CameraCalibration	2020-11-07 17:16:44
+TIME	30.184
+ERROR		Start hasn't finished within 240 seconds. Testrun aborted.
+ERROR		Camera Sensor: OSMesa making context current failed!
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates

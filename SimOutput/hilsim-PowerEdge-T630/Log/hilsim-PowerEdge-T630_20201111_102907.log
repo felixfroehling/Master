@@ -1,0 +1,73 @@
+APPLICATION	Car_Generic <insert.your.version.no> #37 (linux64-9.0)
+COMPILED	felix@hilsim-poweredge-t630 2020-10-29 10:18:36
+ 
+FIRST_INIT	(internal default used)	2020-11-11 10:29:07
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:29:08
+SIM_START	Dataset_left_lane1	2020-11-11 10:29:11
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	5.352
+SIM_END		Dataset_left_lane1	5.349s	169.783m
+TIME	16.510
+SIM_START	Dataset_left_lane1	2020-11-11 10:31:08
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	2.161
+SIM_END		Dataset_left_lane1	2.156s	77.2845m
+TIME	21.193
+SIM_START	Dataset_left_lane1	2020-11-11 10:34:23
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	18.172
+SIM_END		Dataset_left_lane1	18.169s	495.765m
+TIME	22.256
+SIM_START	Dataset_left_lane1	2020-11-11 10:35:24
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	15.324
+SIM_END		Dataset_left_lane1	15.321s	426.009m
+TIME	143.932
+SIM_START	Dataset_left_lane1	2020-11-11 10:57:19
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	18.172
+SIM_END		Dataset_left_lane1	18.169s	495.765m
+TIME	21.164
+SIM_START	Dataset_left_lane1	2020-11-11 10:58:30
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	3.709
+SIM_END		Dataset_left_lane1	3.706s	124.596m
+SIM_START	Dataset_left_lane1	2020-11-11 10:58:41
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	9.134
+SIM_END		Dataset_left_lane1	9.131s	273.8m
+SIM_START	Dataset_left_lane1	2020-11-11 10:59:00
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	10.615
+SIM_END		Dataset_left_lane1	10.612s	315.05m
+SIM_START	Dataset_left_lane1	2020-11-11 10:59:27
+TIME	0.000
+SIMULATE	Dataset_left_lane1
+
+TIME	18.375
+SIM_END		Dataset_left_lane1	18.372s	495.758m
+TIME	24.025
+SIM_START	Dataset_left_lane1	2020-11-11 11:00:59
+TIME	0.062
+ERROR		Calculating vehicle equilibrium state (nIter=567, refal=3, SCState=4)
+ERROR		Camera Sensor: OSMesa making context current failed!
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates

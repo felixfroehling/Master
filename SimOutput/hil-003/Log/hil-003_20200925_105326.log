@@ -1,0 +1,68 @@
+APPLICATION	Car_Generic <insert.your.version.no> #3 (linux64-9.0)
+COMPILED	felix@hil-003 2020-09-25 10:04:58
+ 
+FIRST_INIT	(internal default used)	2020-09-25 10:53:27
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:53:28
+SIM_START	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCatCity	2020-09-25 10:53:30
+TIME	0.000
+SIMULATE	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCatCity
+
+TIME	19.991
+SIM_END		Examples/DriverAssistance/BrakingAssist/AEB_CrossingCatCity	19.988s	236.469m
+SIM_START	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	2020-09-25 10:54:13
+TIME	0.000
+SIMULATE	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection
+
+TIME	16.008
+SIM_END		Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	16.005s	159.619m
+TIME	24.814
+SIM_START	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	2020-09-25 10:56:02
+TIME	0.000
+SIMULATE	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection
+
+TIME	14.067
+SIM_END		Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	14.064s	155.379m
+TIME	18.161
+SIM_START	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	2020-09-25 10:56:59
+TIME	0.000
+SIMULATE	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection
+
+TIME	15.705
+SIM_END		Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	15.702s	159.617m
+TIME	25.921
+SIM_START	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	2020-09-25 10:59:12
+TIME	0.000
+SIMULATE	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection
+
+TIME	20.054
+SIM_END		Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	20.051s	175.639m
+TIME	33.100
+SIM_START	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	2020-09-25 11:01:45
+TIME	0.000
+SIMULATE	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection
+
+TIME	19.799
+SIM_END		Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	19.796s	173.388m
+TIME	53.223
+SIM_START	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	2020-09-25 11:07:42
+TIME	0.000
+SIMULATE	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection
+
+TIME	15.574
+SIM_END		Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	15.571s	159.614m
+TIME	34.178
+SIM_START	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	2020-09-25 11:11:07
+TIME	0.000
+SIMULATE	Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection
+
+TIME	16.380
+SIM_END		Examples/DriverAssistance/BrakingAssist/AEB_CrossingCarIntersection	16.377s	159.619m
+TIME	65.694
+SIM_START	Examples/DriverAssistance/ParkingAssist/EnterCarPark	2020-09-25 11:19:39
+TIME	0.000
+SIMULATE	Examples/DriverAssistance/ParkingAssist/EnterCarPark
+
+TIME	107.096
+SIM_END		Examples/DriverAssistance/ParkingAssist/EnterCarPark	107.093s	415.649m

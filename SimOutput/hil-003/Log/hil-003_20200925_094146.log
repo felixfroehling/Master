@@ -1,0 +1,34 @@
+APPLICATION	Car_Generic <insert.your.version.no> #2 (linux64-9.0)
+COMPILED	felix@hil-003 2020-09-25 09:41:35
+ 
+FIRST_INIT	(internal default used)	2020-09-25 09:41:48
+TIME	0.000
+SIM_END			0s	0m
+IDLE	09:41:48
+SIM_START	BackAndForth	2020-09-25 09:41:52
+TIME	0.000
+SIMULATE	BackAndForth
+
+TIME	2.709
+SIM_END		BackAndForth	2.706s	2.3841m
+SIM_START	BackAndForth	2020-09-25 09:42:13
+TIME	0.000
+SIMULATE	BackAndForth
+
+SIM_END		BackAndForth	0.26s	1.51816e-06m
+SIM_START	BackAndForth	2020-09-25 09:42:15
+TIME	0.000
+SIMULATE	BackAndForth
+
+TIME	2.017
+SIM_END		BackAndForth	2.014s	0.507751m
+SIM_START	BackAndForth	2020-09-25 09:42:25
+TIME	0.134
+ERROR		Camera Sensor: OSMesa making context current failed!
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates
+		Connection to GUI lost, initiate shutdown
+SHUTDOWN	Automatic CarMaker shutdown initiated
+
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates
